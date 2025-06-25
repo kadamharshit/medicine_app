@@ -28,17 +28,3 @@ A simple Flutter-based offline app to store and view medicine details like name,
 flutter pub get
 flutter run
 ```
-Project Structure
-lib/
- ├── main.dart             # Entry point
- ├── screens/              # UI screens
- ├── models/               # Data models
- └── widgets/              # Custom widgets
-assets/
- └── images/               # Stored medicine images
-
-Tech Stack
-Flutter — UI framework
-Dart — Programming language
-Sqflite / SharedPreferences — (Optional for local storage)
-
